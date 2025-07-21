@@ -1,2 +1,16 @@
-# Said_ethicalhacking-tools
-"Powerful Python tools for different stages of ethical hacking, including reconnaissance, scanning, exploitation, and reporting. Customizable, lightweight, and beginner-friendly."
+
+# SaidRecon
+
+**Category:** Reconnaissance  
+**Language:** Python
+
+## Description
+SaidRecon waa tool fudud oo loogu talagalay xog ururinta domain ama IP. Waxay kuu ogolaaneysaa inaad hesho IP-ga domain-ka iyo HTTP headers si aad u bilowdo baaritaanka.
+
+## Features
+- Helitaanka IP address
+- Soo bandhigida HTTP headers
+
+## Usage
+```bash
+python SaidRecon.py
